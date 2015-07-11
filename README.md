@@ -1,5 +1,5 @@
 # test-repo
 ##tester
-*nkldnkjn
-*kbkjk
-*kbkjkj
+li nkldnkjn
+li kbkjk
+li kbkjkj
